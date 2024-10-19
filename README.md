@@ -1,8 +1,9 @@
 # **Hi! 👋🏻 I’m [@Delta18-Git](https://github.com/Delta18-Git)**
 
-- [ ] 👀 I’m interested in Java and Kotlin for computer applications.
-- [x] 🌱 I’m currently learning Java!
-- [ ] 💞️ I’m looking to collaborate on my school projects to make them better afterwards to learn new concepts!
+- [ ] 👀 I’m interested in a bit of everything in CS!
+- [x] 🌱 I’m currently learning Go!
+- [x] 🪴 I have some degree of experience in Java, which‌ I seek to improve and refine by learning more about enterprise-grade Java.
+- [ ] 💞️ I’m looking to collaborate and learn more so I can contribute to the wider world of FOSS!
 <!-- 📫 How to reach me: PENDING --->
 
 <!---
